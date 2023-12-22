@@ -9,16 +9,16 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a target="_blank" href="#">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
-          Gaurav Ghai
+        <a target="_blank" href="#">
+          Karan Gupta
         </a>{" "}
         | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
-          HTML HINTS
+        <a target="_blank" href="#">
+          YOUTUBE Tutorials
         </a>
       </div>
     </React.Fragment>
